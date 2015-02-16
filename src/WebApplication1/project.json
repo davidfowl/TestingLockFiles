@@ -2,7 +2,8 @@
     "webroot": "wwwroot",
     "version": "1.0.0-*",
     "dependencies": {
-        "Microsoft.AspNet.Server.IIS": "1.0.0-beta4-*"
+        "Microsoft.AspNet.Server.IIS": "1.0.0-beta4-*",
+        "Microsoft.AspNet.Diagnostics": "1.0.0-beta4-*"
     },
     "frameworks": {
         "aspnet50": { },
